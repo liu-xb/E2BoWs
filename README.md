@@ -1,10 +1,16 @@
 # caffe
 We provide the source code for paper "E2BoWs: End-to-End Bag-of-Words Model vid Deep Convolutional Neural Network" in ChinaMM 2017. The paper can be downloaded at "https://arxiv.org/abs/1709.05903". If you find our work helpful, please kindly cite our paper:
+
 @article{E2BoWs,
+
   title={E2BoWs: An End-to-End Bag-of-Words Model via Deep Convolutional Neural Network},
+  
   author={Liu, Xiaobin. and Zhang, Shiliang. and Huang, Tiejun. and Tian, Qi.},
+  
   journal={arXiv preprint arXiv:1709.05903},
+  
   year={2017}
+  
 }
 
 We present some new layers such as "ReduceLayer", "SimED2LossLayer" and "ConvReLULayer".
