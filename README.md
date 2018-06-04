@@ -1,5 +1,5 @@
 # caffe
-We provide the source code for paper "E2BoWs: End-to-End Bag-of-Words Model vid Deep Convolutional Neural Network" in ChinaMM 2017. The paper can be downloaded at "https://arxiv.org/abs/1709.05903". If you find our work helpful, please kindly cite our paper:
+We provide the source code for paper "E2BoWs: End-to-End Bag-of-Words Model vid Deep Convolutional Neural Network" in ChinaMM 2017. Paper is also accepted by Neurocomputing. The paper can be downloaded at "https://arxiv.org/abs/1709.05903". If you find our work helpful, please kindly cite our paper:
 
 @article{E2BoWs,  
   title={E2BoWs: An End-to-End Bag-of-Words Model via Deep Convolutional Neural Network},    
@@ -15,4 +15,3 @@ We also present a tool to extract features: "my_extract_features", which writes 
 Please feel free to contact me if you have any question. 
 
 More details of this project will be released very soon.
-
