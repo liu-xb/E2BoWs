@@ -1,4 +1,5 @@
 **E2BoWs**
+
 We provide the source code for paper "E2BoWs: End-to-End Bag-of-Words Model vid Deep Convolutional Neural Network" in ChinaMM 2017. Paper is also accepted by Neurocomputing. The paper can be downloaded at "https://arxiv.org/abs/1709.05903". If you find our work helpful, please kindly cite our paper:
 
 @article{E2BoWs,  
