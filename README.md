@@ -1,6 +1,6 @@
 **E2BoWs**
 
-We provide the source code for paper "E2BoWs: End-to-End Bag-of-Words Model vid Deep Convolutional Neural Network" in ChinaMM 2017 [link]("https://arxiv.org/abs/1709.05903"). Paper is also accepted by [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231219309105?via%3Dihub). If you find our work helpful, please kindly cite our paper:
+We provide the source code for paper "E2BoWs: End-to-End Bag-of-Words Model vid Deep Convolutional Neural Network" in [ChinaMM'17](https://arxiv.org/abs/1709.05903). Paper is also accepted by [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231219309105?via%3Dihub). If you find our work helpful, please kindly cite our paper:
 
 @article{E2BoWs,  
   title={E2BoWs: An End-to-End Bag-of-Words Model via Deep Convolutional Neural Network for Image Retrieval},    
